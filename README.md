@@ -3,9 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/xeolabs?style=social)](https://twitter.com/xeolabs) [![npm version](https://badge.fury.io/js/%40xeokit%2Fxeokit-bim-viewer.svg)](https://badge.fury.io/js/%40xeokit%2Fxeokit-bim-viewer)
 [![](https://data.jsdelivr.com/v1/package/npm/@xeokit/xeokit-bim-viewer/badge)](https://www.jsdelivr.com/package/npm/@xeokit/xeokit-bim-viewer)
 
-[![Screenshot](https://github.com/xeokit/xeokit-bim-viewer/raw/master/images/xeokit-bim-viewer.png)](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
+[![Screenshot](https://github.com/xeokit/xeokit-bim-viewer/raw/master/images/xeokit-bim-viewer.png)](https://calita78.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
 
-* [Run demo](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
+* [Run demo](https://calita78.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
 
 ---
 
@@ -32,7 +32,7 @@ To view your models with this viewer:
 
 Then users can view your models in their browsers, with URLs like this:
 
-[````https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys````](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
+[````https://calita78.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys````](https://calita78.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys)
 
 Read the documentation below to get started.
 
@@ -105,7 +105,7 @@ Click the links below to run some demos.
 |---|---|
 | [Double-Precision Model](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=MAP) | [BIMData](https://bimdata.io) |
 | [Point Cloud](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=MAPPointCloud)| [BIMData](https://bimdata.io) |
-| [OTC Conference Center](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys) | [Details](http://openifcmodel.cs.auckland.ac.nz/Model/Details/301) |
+| [OTC Conference Center](https://calita78.github.io/xeokit-bim-viewer/app/index.html?projectId=OTCConferenceCenter&tab=storeys) | [Details](http://openifcmodel.cs.auckland.ac.nz/Model/Details/301) |
 | [Revit Sample Project](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=RevitSamples&tab=models) | [Details](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/CloudHelp/cloudhelp/2020/ENU/Revit-GetStarted/files/GUID-61EF2F22-3A1F-4317-B925-1E85F138BE88-htm.html) |
 | [Holter Tower](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=HolterTower&tab=storeys)| [Details](http://openifcmodel.cs.auckland.ac.nz/Model/Details/316) |
 | [West Riverside Hospital](https://xeokit.github.io/xeokit-bim-viewer/app/index.html?projectId=WestRiversideHospital&tab=models)| [Details](http://openifcmodel.cs.auckland.ac.nz/Model/Details/308) |
